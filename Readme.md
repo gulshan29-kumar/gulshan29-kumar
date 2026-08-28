@@ -1,40 +1,35 @@
-👋 Hi, I'm Gulshan Kumar
-🤖 AI/ML Engineer | 💻 Full-Stack Developer | 🏆 Competitive Programmer
+<div align="center">
+  <h1>👋 Hi, I'm Gulshan Kumar</h1>
+  <h3>🤖 AI/ML Engineer | 💻 Full-Stack Developer | 🏆 Competitive Programmer</h3>
+  <p><i>B.Tech CSE student at IIIT Ranchi, passionate about building AI-powered applications, scalable web systems, and solving challenging algorithmic problems.</i></p>
+</div>
 
-B.Tech CSE student at IIIT Ranchi, passionate about building AI-powered applications, scalable web systems, and solving challenging algorithmic problems.
+---
 
-🚀 Tech Stack
-🤖 AI / Machine Learning
+### 👨‍💻 What I'm Doing
+- 🤖 **Building:** Integrated AI + Full-Stack applications.
+- 🧠 **Exploring:** Generative AI, Agentic AI, and LLMs.
+- 🔬 **Learning:** Advanced AI/ML systems and research methodologies.
+- 🌟 **The Vision:** AI/ML Engineering ➔ Generative AI ➔ Agentic AI ➔ AI Research.
 
-Python NumPy Pandas Scikit-Learn TensorFlow PyTorch
-Machine Learning Deep Learning GenAI Agentic AI LLMs RAG
+### 🛠️ Tech Stack
 
-💻 Full-Stack Development
+**🧠 AI & Machine Learning**  
+`Python` `NumPy` `Pandas` `Scikit-Learn` `TensorFlow` `PyTorch` `Deep Learning` `GenAI` `LLMs` `RAG`
 
-HTML CSS Tailwind CSS JavaScript React.js Redux
-Node.js REST APIs WebSockets
+**💻 Full-Stack Development**  
+`HTML` `CSS` `Tailwind CSS` `JavaScript` `React.js` `Redux` `Node.js` `REST APIs` `WebSockets`
 
-🏆 Competitive Programming
-🟢 CodeChef — 3★ | 1730 Rating
-🔵 Codeforces — Specialist | 1766 Rating
-🧠 Strong in DSA & Problem Solving
-⚡ Graphs • DP • Greedy • Binary Search • Trees • Sorting • Number Theory
-🛠️ Tools
+**🔧 Tools & Ecosystem**  
+`Git` `GitHub` `Streamlit` `LlamaIndex` `FAISS`
 
-Git GitHub Streamlit LlamaIndex FAISS
+### 🏆 Competitive Programming & DSA
+- 🔵 **Codeforces:** Specialist (1466)
+- 🟢 **CodeChef:** 3★ (1730)
+- 🧠 **Strong In:** `Graphs` `Dynamic Programming` `Greedy` `Binary Search` `Trees` `Number Theory`
 
-🎯 What I'm Working On
+<br>
 
-🤖 Building AI + Full-Stack applications
-🧠 Exploring Generative AI & Agentic AI
-🏆 Improving Competitive Programming & DSA
-🔬 Learning advanced AI/ML systems and research
-
-🌟 Goals
-AI/ML Engineering → Generative AI → Agentic AI → AI Research
-                         +
-              Full-Stack Engineering
-                         +
-             Competitive Programming
-
-Build. Solve. Learn. Repeat. 🚀
+<div align="center">
+  <h3><b>Build. Solve. Learn. Repeat. 🚀</b></h3>
+</div>
