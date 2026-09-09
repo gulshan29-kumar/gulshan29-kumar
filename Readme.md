@@ -2,17 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=150&section=header&text=Hi%20there,%20I'm%20Gulshan%20Kumar!%20%F0%9F%91%8B&fontSize=40&fontAlignY=35&animation=twinkling" />
 </div>
 
-<h3 align="center">Machine Learning Enthusiast | Competitive Programmer | B.Tech CSE @ IIIT Ranchi</h3>
+<h3 align="center">AI/ML & Full Stack Developer | Competitive Programmer | B.Tech CSE @ IIIT Ranchi</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🎓 Undergraduate student pursuing **B.Tech in Computer Science and Engineering** at **IIIT Ranchi** (2024-2028, CGPA: 9.56).
-- 🧠 Deeply interested in **Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI**.
+- 🧠 Passionate **AI/ML & Full Stack Developer** with a strong focus on **Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI**.
 - 🏆 **Competitive Programmer**: Specialist on Codeforces, 3-Star on CodeChef, and solved 1000+ DSA problems.
 - 🚀 **Hackathon Winner**: 1st Position at Quasar 2.0 (IIIT Ranchi), Participant at ISRO's Bharatiya Antariksh Hackathon.
-- 🔭 Currently building end-to-end ML pipelines and experimenting with **Agentic AI & MLOps (DVC, Flask)**.
+- 🔭 Currently building end-to-end ML pipelines and **robust Full Stack web applications**, while experimenting with **Agentic AI & MLOps (DVC, Flask)**.
 
 ---
 
@@ -35,13 +35,15 @@
 
 ### 📊 GitHub Stats & Contributions
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gulshan2908&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gulshan2908&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://github.com/Gulshan2908">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gulshan2908&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/Gulshan2908">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gulshan2908&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
@@ -86,4 +88,5 @@
   💡 <i>"Code. Learn. Build. Repeat."</i>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer"/>
 </div>
+
 
